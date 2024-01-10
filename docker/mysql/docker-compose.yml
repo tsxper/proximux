@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mysql_master:
+    image: mysql:8.0
+    env_file:
+      - ./.env
+    container_name: "tsxper_proximux_mysql8"
+    restart: "no"
+    ports:
+      - 4441:3306
+    networks:
+      - overlay
+networks:
+  overlay:
