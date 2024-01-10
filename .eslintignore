@@ -1,0 +1,6 @@
+dist
+.github
+**/*.js
+__tests__
+*.spec.ts
+*.test.ts
