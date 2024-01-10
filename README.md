@@ -241,7 +241,7 @@ Example shows:
 
 ## Architecture
 
-![Proximux Architecture](https://github.com/tsxper/proximux/tree/main/img/architecture.jpeg)
+![Proximux Architecture](https://raw.githubusercontent.com/tsxper/proximux/main/img/architecture.jpeg)
 
 - Local Server. It is a server that handles incoming connections.
 - Exchange. Pass and receive data between connections.
