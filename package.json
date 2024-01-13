@@ -1,6 +1,6 @@
 {
   "name": "@tsxper/proximux",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "TCP multiplexer. Proxy. Connection buffer.",
   "scripts": {
     "test": "jest",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsxper/service-manager.git"
+    "url": "git+https://github.com/tsxper/proximux.git"
   },
   "author": "Vladyslav Babak",
   "license": "MIT",
